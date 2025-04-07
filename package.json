@@ -1,0 +1,38 @@
+{
+  "name": "melbera",
+  "version": "1.0.0",
+  "private": true,
+  "description": "melbera",
+  "author": "Anastasiia Davydova",
+  "keywords": [
+    "gatsby"
+  ],
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "@tailwindcss/postcss": "^4.1.1",
+    "autoprefixer": "^10.4.21",
+    "gatsby": "^5.14.1",
+    "gatsby-omni-font-loader": "^2.0.2",
+    "gatsby-plugin-advanced-sitemap-v5": "^2.1.12",
+    "gatsby-plugin-image": "^3.14.0",
+    "gatsby-plugin-manifest": "^5.14.0",
+    "gatsby-plugin-sharp": "^5.14.0",
+    "gatsby-plugin-svgr-loader": "^0.1.0",
+    "gatsby-source-filesystem": "^5.14.0",
+    "gatsby-source-wordpress": "^7.14.0",
+    "gatsby-transformer-remark": "^6.14.0",
+    "gatsby-transformer-sharp": "^5.14.0",
+    "postcss": "^8.5.3",
+    "prettier": "^3.5.3",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "swiper": "^11.2.6",
+    "tailwindcss": "^4.1.1"
+  }
+}
